@@ -1,0 +1,65 @@
+{
+ "note": "The recordings the site's music plays (work/music.js): Piano and Concerto. Wood makes its notes in the browser.",
+ "credits": {
+  "piano": "Salamander Grand Piano by Alexander Holm (CC BY 3.0): https://github.com/sfzinstruments/SalamanderGrandPiano",
+  "flute": "VSCO 2 Community Edition, Versilian Studios (CC0 1.0): https://github.com/sgossner/VSCO-2-CE",
+  "clarinet": "VSCO 2 Community Edition, Versilian Studios (CC0 1.0): https://github.com/sgossner/VSCO-2-CE"
+ },
+ "files": {
+  "piano": [
+   "A1v5.mp3",
+   "A1v9.mp3",
+   "A2v5.mp3",
+   "A2v9.mp3",
+   "A3v5.mp3",
+   "A3v9.mp3",
+   "A4v5.mp3",
+   "A4v9.mp3",
+   "C2v5.mp3",
+   "C2v9.mp3",
+   "C3v5.mp3",
+   "C3v9.mp3",
+   "C4v5.mp3",
+   "C4v9.mp3",
+   "C5v5.mp3",
+   "C5v9.mp3",
+   "Ds2v5.mp3",
+   "Ds2v9.mp3",
+   "Ds3v5.mp3",
+   "Ds3v9.mp3",
+   "Ds4v5.mp3",
+   "Ds4v9.mp3",
+   "Ds5v5.mp3",
+   "Ds5v9.mp3",
+   "Fs2v5.mp3",
+   "Fs2v9.mp3",
+   "Fs3v5.mp3",
+   "Fs3v9.mp3",
+   "Fs4v5.mp3",
+   "Fs4v9.mp3",
+   "Fs5v5.mp3",
+   "Fs5v9.mp3"
+  ],
+  "flute": [
+   "A4.mp3",
+   "A5.mp3",
+   "C4.mp3",
+   "C5.mp3",
+   "E4.mp3",
+   "E5.mp3"
+  ],
+  "clarinet": [
+   "As3.mp3",
+   "As4.mp3",
+   "D4.mp3",
+   "D5.mp3",
+   "F4.mp3",
+   "F5.mp3"
+  ]
+ },
+ "bytes": {
+  "piano": 7072023,
+  "flute": 757757,
+  "clarinet": 1049075
+ }
+}
